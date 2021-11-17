@@ -2,11 +2,11 @@
 <p>Meu nome é <strong>Renato Rocha</strong>, Curso o 2° periodo de Engenharia da Computação na MULTIVIX, e de quebra estudo programação por interesse.</p>
 <p align="left">
 <h3>Linguagens e Ferramentas que tenho interesse</h3>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" type="blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" type="blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" type="blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-<a href="https://www.typescriptlang.org" type="blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="javascript"/>
- <a href="https://www.python.org" type="blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+<a href="https://www.typescriptlang.org" target="blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="javascript"/>
+ <a href="https://www.python.org" target="blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 
 
 
