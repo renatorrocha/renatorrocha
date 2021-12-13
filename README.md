@@ -9,16 +9,13 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
 
-
-
-
   <h3>Redes</h3>
 <a href="https://twitter.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://www.linkedin.com/in/renato-rocha-72a247213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   </p>
-  
+  <br>
   <div align="center">
   <a href="https://github.com/renatorrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatorrocha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
