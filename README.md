@@ -1,5 +1,5 @@
 <h2>Sobre Mim</h2>
-<p>Meu nome é <strong>Renato Rocha</strong>, Curso o 2° periodo de Engenharia da Computação na MULTIVIX, e de quebra estudo programação por interesse.</p>
+<p>Meu nome é <strong>Renato Rocha</strong>, Curso o 3° periodo de Engenharia da Computação na MULTIVIX, e de quebra estudo programação por interesse.</p>
 <p align="left">
 <h3>Linguagens e Ferramentas que tenho interesse</h3>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
