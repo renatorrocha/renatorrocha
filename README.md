@@ -1,4 +1,4 @@
-<h2 align="left">Meu nome é Renato Rocha, Curso o 3° Período de Engenharia da Computação na MULTIVIX e atualmente faço estagio de Desenvolvimento de Sistemas na Foursys na área Android.</h2>
+<h2 align="left">Meu nome é Renato Rocha, Curso o 4° Período de Engenharia da Computação na MULTIVIX e atualmente faço estagio de Desenvolvimento de Sistemas na Foursys na área Android.</h2>
 
 ###
 
