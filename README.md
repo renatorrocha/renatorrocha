@@ -1,6 +1,23 @@
-<h2 align="left">Meu nome é Renato Rocha, Curso o 4° Período de Engenharia da Computação na MULTIVIX e atualmente faço estagio de Desenvolvimento de Sistemas na Foursys na área Android.</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-###
+<p align="left"> 
+  Olá, meu nome é <strong>Renato Rocha</strong> e sou um desenvolvedor em desenvolvimento.
+    <br>
+  Atualmente estou cursando <strong>Analise e desenvolvimento de sistemas</strong> na Multivix e trabalhando como estagiario em desenvolvimento Mobile com android na Foursys.
+    <br>
+</p>
+
+<p align="left">
+  Linguagens: Node.js
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 <br clear="both">
 
