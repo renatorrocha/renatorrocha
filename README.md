@@ -8,15 +8,24 @@
 </p>
 
 <p align="left">
-  Linguagens: Node.js
+  <strong>Linguagens</strong>: Java, Kotlin, Javascript
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+   <strong>Ferramentas</strong>: Figma, Git, Android Studio
 </p>
 
+<div align="left">
+  <a href="https://www.instagram.com/reneto.rocha/?hl=pt-br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c563b0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/renato-rrodrigues/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7611fa&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  <img src="https://img.shields.io/static/v1?label=Overview&message=renatorrocha&color=9925fb&style=for-the-badge&logo=GitHub">
 </p>
 
 <br clear="both">
@@ -44,14 +53,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/reneto.rocha/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/renato-rrodrigues/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
