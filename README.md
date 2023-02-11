@@ -46,5 +46,5 @@
 **Estagiário de desenvolvimento Android** \
 [**Foursys**](https://www.foursys.com.br/) • Contrato \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
-Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), [BRAVVE](https://pt.wikipedia.org/wiki/Marte_(planeta))
+Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 <br/>
