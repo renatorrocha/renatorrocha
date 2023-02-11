@@ -1,7 +1,9 @@
+### Olá Rede 👋
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é <strong>Renato Rocha</strong> e sou um desenvolvedor em desenvolvimento.
+  Meu nome é <strong>Renato Rocha</strong> e sou um desenvolvedor em desenvolvimento.
     <br>
   Atualmente estou cursando <strong>Analise e desenvolvimento de sistemas</strong> na Multivix e trabalhando como estagiario em desenvolvimento Mobile com android na Foursys.
     <br>
@@ -19,6 +21,8 @@
    <strong>Conecte-se comigo 👇</strong>
 </p>
 
+###
+
 <div align="left">
   <a href="https://www.instagram.com/reneto.rocha/?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c563b0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -34,9 +38,12 @@
 
 <br clear="both">
 
+###
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=renatorrocha" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=renatorrocha" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=renatorrocha" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=renatorrocha" height="150" alt="languages graph"  />
 </div>
 
 ### Experiência de trabalho
