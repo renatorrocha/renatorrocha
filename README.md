@@ -30,7 +30,6 @@ class about extends Developer {
 <br/>
 
 # 📚 Bibliotecas & Framework
-<br>
 
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
