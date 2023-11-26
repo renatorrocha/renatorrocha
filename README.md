@@ -50,7 +50,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGseVyE_7ZFDQ/company-logo_200_200/0/1533695259977?e=2147483647&v=beta&t=89OLgx8-ij6frds2h7MC5HtZo8U1o-IIgjVZuMrPq8U"/>](https://www.foursys.com.br/)
 
-**Estagiário de desenvolvimento Android** \
+Mobile Developer | Estagiário de desenvolvimento Android \
 [**Foursys**](https://www.foursys.com.br/) • Contrato \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
@@ -58,8 +58,11 @@ Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGHIrREafwFSg/company-logo_200_200/0/1604094353015?e=2159024400&v=beta&t=uPMm3TvEhUNAxM6B4K4Ub1iMgz5RAMGZZALC6qXFFEU"/>](https://www.findes.com.br/)
 
-**Estagiário de desenvolvimento Web** \
+Front End Developer | Estagiário de desenvolvimento Web \
 [**Findes**](https://www.findes.com.br/) • Contrato \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `Figma`, `Github`, `Azure`, \
 Projetos em destaque: `Platão`
 <br/>
+
+<br>
+
