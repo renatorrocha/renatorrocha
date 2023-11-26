@@ -38,6 +38,22 @@
 
 <br clear="both">
 
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
+Front End Developer | Estagiário de desenvolvimento Web \
+[**Findes**](https://www.findes.com.br/) • Contrato \
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `Figma`, `Github`, `Azure`, \
+Projetos em destaque: `Platão`
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renatorrocha/renatorrocha/blob/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
+Mobile Developer | Estagiário de desenvolvimento Android \
+[**Foursys**](https://www.foursys.com.br/) • Contrato \
+Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
+Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
+<br/>
+
 ###
 
 
@@ -45,24 +61,4 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=renatorrocha" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=renatorrocha" height="150" alt="languages graph"  />
 </div>
-
-### Experiência de trabalho
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGseVyE_7ZFDQ/company-logo_200_200/0/1533695259977?e=2147483647&v=beta&t=89OLgx8-ij6frds2h7MC5HtZo8U1o-IIgjVZuMrPq8U"/>](https://www.foursys.com.br/)
-
-Mobile Developer | Estagiário de desenvolvimento Android \
-[**Foursys**](https://www.foursys.com.br/) • Contrato \
-Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
-Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGHIrREafwFSg/company-logo_200_200/0/1604094353015?e=2159024400&v=beta&t=uPMm3TvEhUNAxM6B4K4Ub1iMgz5RAMGZZALC6qXFFEU"/>](https://www.findes.com.br/)
-
-Front End Developer | Estagiário de desenvolvimento Web \
-[**Findes**](https://www.findes.com.br/) • Contrato \
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `Figma`, `Github`, `Azure`, \
-Projetos em destaque: `Platão`
-<br/>
-
-<br>
 
