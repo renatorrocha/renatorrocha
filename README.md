@@ -42,14 +42,14 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
 Front End Developer | Estagiário de desenvolvimento Web \
-[**Findes**](https://www.findes.com.br/) • Contrato \
+[**Findes**](https://www.findes.com.br/) • ago de 2023 - o momento • Contrato \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `Figma`, `Github`, `Azure`, \
 Projetos em destaque: `Platão`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renatorrocha/renatorrocha/blob/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
 Mobile Developer | Estagiário de desenvolvimento Android \
-[**Foursys**](https://www.foursys.com.br/) • Contrato \
+[**Foursys**](https://www.foursys.com.br/) • abr de 2022 - fev de 2023 • 11 meses • Contrato \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
 <br/>
