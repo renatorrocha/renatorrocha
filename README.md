@@ -34,6 +34,7 @@ class about extends Developer {
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-blue?style=for-the-badge&logo=mui&logoColor=white)
+![Next.Ui](https://img.shields.io/badge/nextui-white?style=for-the-badge&logo=nextui&logoColor=black)
 <br/>
 ![Zod](https://img.shields.io/badge/zod-142641?style=for-the-badge&logo=zod&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-142641?style=for-the-badge&logo=react-hook-form&logoColor=white)
