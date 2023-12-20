@@ -5,7 +5,7 @@
 <p align="left"> 
   Meu nome é <strong>Renato Rocha</strong> e sou um desenvolvedor em desenvolvimento.
     <br>
-  Atualmente estou cursando <strong>Analise e desenvolvimento de sistemas</strong> na Multivix.
+  Atualmente estou cursando <strong>Analise e desenvolvimento de sistemas</strong>.
     <br>
 </p>
 
