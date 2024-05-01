@@ -61,7 +61,7 @@ Conecte-se comigo em outras redes 👇
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
 Front End Developer | Estagiário de desenvolvimento Web \
 [**Findes**](https://www.findes.com.br/) • ago de 2023 - o momento • Contrato \
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `Figma`, `Github`, `Azure`, \
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `React - vite`, `Figma`, `Github`, `Azure`, \
 Projetos em destaque: `Platão`
 <br/>
 
