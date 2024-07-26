@@ -12,10 +12,11 @@
 ```js
 import Developer from '@Renatorrocha';
 class about extends Developer {
-  name      = 'Renato Rocha Rodrigues';
-  area      = 'Front-end';
-  work      = 'Findes';
-  state     = 'Espírito Santo, ES';
+  name       = 'Renato Rocha Rodrigues';
+  area       = 'Front-end';
+  work       = 'Findes';
+  state      = 'Espírito Santo, ES';
+  portfolio  = 'https://renato-dev.vercel.app/';
 }
 ```
 
@@ -34,12 +35,20 @@ class about extends Developer {
 
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/mui-blue?style=for-the-badge&logo=mui&logoColor=white)
+![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
+![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Next.Ui](https://img.shields.io/badge/nextui-white?style=for-the-badge&logo=nextui&logoColor=black)
 <br/>
-![Zod](https://img.shields.io/badge/zod-142641?style=for-the-badge&logo=zod&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-142641?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-142641?style=for-the-badge&logo=zod&logoColor=white)
+
+
 
 
 # Contatos
