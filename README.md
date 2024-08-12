@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é <strong>Renato Rocha</strong> e sou um desenvolvedor em desenvolvimento.
+  Meu nome é <strong>Renato Rocha</strong> - Desenvolvedor WEB.
   <br>
   Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.
   <br>
