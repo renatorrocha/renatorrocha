@@ -9,7 +9,7 @@
   <br>
 </p>
 
-🔗 Check out my online portfolio: [**Portfolio**](https://renato-dev.vercel.app/).
+🔗 Check out my online portfolio: [**Portfolio**](https://renatodev.com).
 
 ```js
 import Developer from '@Renatorrocha';
