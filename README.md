@@ -70,7 +70,7 @@ Connect with me on other networks 👇
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Findes" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
-**Front End Developer | Web Development Intern** \
+**Front End Developer | Web Development** \
 [Findes](https://www.findes.com.br/) • Aug 2023 - Present • Contract \
 Languages & Technologies: `JavaScript`, `TypeScript`, `React - Vite`, `Figma`, `GitHub`, `Azure` \
 Highlighted Projects: `Platão`
