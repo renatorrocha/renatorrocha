@@ -15,7 +15,7 @@
 import Developer from '@Renatorrocha';
 class about extends Developer {
   name       = 'Renato Rocha Rodrigues';
-  area       = 'Front-end';
+  area       = 'Fullstack';
   work       = 'Findes';
   state      = 'Espírito Santo, ES';
 }
