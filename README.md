@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Renato Rocha">
 
 <p align="left"> 
-  My name is <strong>Renato Rocha</strong> - Web Developer, graduated in Systems Analysis and Development.
+  My name is <strong>Renato Rocha</strong> – Web Developer with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
   <br>
-  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development</strong>.
+  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development</strong> and continuously expanding my knowledge in data-driven technologies.
   <br>
 </p>
 
