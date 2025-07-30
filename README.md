@@ -12,10 +12,10 @@
 🔗 Check out my online portfolio: [**Portfolio**](https://renatodev.com).
 
 ```js
-import Developer from '@Renatorrocha';
+import Developer from '@renatorrocha';
 class about extends Developer {
   name       = 'Renato Rocha Rodrigues';
-  area       = 'Fullstack';
+  area       = 'Fullstack and AI enthusiast';
   work       = 'Findes';
   state      = 'Espírito Santo, ES';
 }
