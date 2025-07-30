@@ -1,15 +1,22 @@
 ### Hello Network 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Renato Rocha">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer Renato Rocha">
 
 <p align="left"> 
   My name is <strong>Renato Rocha</strong> – Web Developer with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
   <br>
-  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development and Artificial Intelligence</strong> and continuously expanding my knowledge in data-driven technologies.
-  <br>
+  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development with a focus on Artificial Intelligence</strong> and continuously expanding my knowledge in data-driven technologies.
 </p>
 
-🔗 Check out my online portfolio: [**Portfolio**](https://renatodev.com).
+---
+
+## 🔗 Links
+
+- 🌐 [Portfolio](https://renatodev.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/renatorrocha)
+- 📧 [Email](mailto:renatorrodrigues2002@gmail.com)
+
+---
 
 ```js
 import Developer from '@renatorrocha';
@@ -60,17 +67,6 @@ class about extends Developer {
 
 ---
 
-## 📫 Contact
-
-Connect with me on other networks 👇
-
-[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:renatorrodrigues2002@gmail.com)
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/renatorrocha)
-
-<br>
-
----
-
 ## 💼 Work Experience
 
 <br/>
@@ -78,7 +74,7 @@ Connect with me on other networks 👇
 [<img align="left" height="94px" width="94px" alt="Findes" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
 **Front End Developer | Web Development** \
 [Findes](https://www.findes.com.br/) • Aug 2023 - Present • Contract \
-Started as an **Intern**, then transitioned to a **Scholarship position**, and currently working as a **Junior Developer**. \
+Started as an **Intern**, then transitioned to a **Research Scholarship position**, and currently working as a **Junior Developer**. \
 Languages & Technologies: `TypeScript`, `React - Vite`, `Figma`, `GitHub`, `Azure`, `Python`, `Node` 
 
 <br/>
