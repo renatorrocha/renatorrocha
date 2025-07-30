@@ -5,7 +5,7 @@
 <p align="left"> 
   My name is <strong>Renato Rocha</strong> – Web Developer with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
   <br>
-  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development</strong> and continuously expanding my knowledge in data-driven technologies.
+  I am currently pursuing a <strong>Postgraduate Degree in Full-Stack Development and Artificial Intelligence</strong> and continuously expanding my knowledge in data-driven technologies.
   <br>
 </p>
 
