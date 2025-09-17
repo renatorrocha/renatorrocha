@@ -10,7 +10,7 @@
 
 ---
 
-## 🔗 Links
+### 🔗 Links
 
 - 🌐 [Portfolio](https://renatodev.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/renatorrocha)
