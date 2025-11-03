@@ -36,42 +36,53 @@ class About extends Developer {
 }
 ```
 
-## 🛠️ Technologies
+<h3 align="left">Languages and Tools:</h3>
 
-### Languages
+<h4>Languages</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h4>Frameworks & Libraries</h4>
 
-### Web & Backend
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nextjs,nestjs,express,fastapi,zustand,tailwind)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-blue?style=for-the-badge&logo=elysia&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<h4>Databases & Messaging</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40"/>
+</p>
 
-### Data Science & AI
+<h4>Cloud & DevOps</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6B00?style=for-the-badge&logo=qdrant&logoColor=white)
+<h4>📱 Mobile</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/>
+</p>
 
-### Styling & UI
+<h4>🧩 AI & Tools</h4>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="40" height="40"/>
+  
+</p>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn_ui-black?style=for-the-badge&logo=radix-ui&logoColor=white)
-![NextUI](https://img.shields.io/badge/NextUI-white?style=for-the-badge&logo=nextui&logoColor=black)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
