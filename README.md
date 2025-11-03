@@ -18,13 +18,18 @@
 
 ---
 
-```js
+```ts
 import Developer from '@renatorrocha';
-class about extends Developer {
-  name       = 'Renato Rocha Rodrigues';
-  area       = 'Fullstack and AI enthusiast';
-  work       = 'Findes';
-  state      = 'Espírito Santo, ES';
+
+class About extends Developer {
+  constructor() {
+    super({
+      name: 'Renato Rocha Rodrigues',
+      area: 'Fullstack and AI enthusiast',
+      work: 'Findes',
+      state: 'Espírito Santo, ES'
+    });
+  }
 }
 ```
 
