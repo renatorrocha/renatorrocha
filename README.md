@@ -39,50 +39,31 @@ class About extends Developer {
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-</p>
+<h3>🛠️ Languages and Tools</h3>
+
+<h4>Languages</h4>
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,kotlin,go)
 
 <h4>Frameworks & Libraries</h4>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nextjs,nestjs,express,fastapi,zustand,tailwind)
+![Frameworks & Libraries](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,nestjs,express,fastapi,zustand,tailwindcss,materialui)
 
 <h4>Databases & Messaging</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40"/>
-</p>
+
+![Databases & Messaging](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,rabbitmq)
 
 <h4>Cloud & DevOps</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-</p>
 
-<h4>📱 Mobile</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/>
-</p>
+![Cloud & DevOps](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,linux,bash,git,github,cloudflare,vercel)
 
-<h4>🧩 AI & Tools</h4>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="40" height="40"/>
-  
-</p>
+<h4>Mobile</h4>
 
+![Mobile](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,react)
 
+<h4>AI & Tools</h4>
+
+![AI & Tools](https://go-skill-icons.vercel.app/api/icons?i=huggingface,ollama,langchain,vscode,obsidian,md,notion)
 
 ---
 
