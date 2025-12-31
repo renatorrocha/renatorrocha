@@ -36,11 +36,6 @@ class About extends Developer {
 }
 ```
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Languages</h4>
-<h3>🛠️ Languages and Tools</h3>
-
 <h4>Languages</h4>
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,kotlin,go)
