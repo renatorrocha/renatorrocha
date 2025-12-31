@@ -72,7 +72,7 @@ class About extends Developer {
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Findes" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
-**Front End Developer | Web Development** \
+**Fullstack Web Development** \
 [Findes](https://www.findes.com.br/) • Aug 2023 - Present • Contract \
 Started as an **Intern**, then transitioned to a **Research Scholarship position**, and currently working as a **Junior Developer**. \
 Languages & Technologies: `TypeScript`, `React - Vite`, `Figma`, `GitHub`, `Azure`, `Python`, `Node` 
