@@ -69,6 +69,7 @@ class About extends Developer {
 [<img align="left" height="94px" width="94px" alt="ISH Logo" src="https://github.com/renatorrocha/renatorrocha/blob/main/ish-logo.jpg"/>](https://ish.com.br/)
 **Mid-Level Fullstack Development** \
 [ISH](https://ish.com.br/) • Jan 2026 - Present • Contract \
+I’ll add a description here soon
 
 <br/>
 
