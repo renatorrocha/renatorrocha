@@ -29,7 +29,7 @@ class About extends Developer {
     super({
       name: 'Renato Rocha Rodrigues',
       area: 'Fullstack and AI enthusiast',
-      work: 'Findes',
+      work: 'ISH',
       state: 'Espírito Santo, ES'
     });
   }
@@ -66,9 +66,17 @@ class About extends Developer {
 
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="ISH Logo" src="https://github.com/renatorrocha/renatorrocha/blob/main/ish-logo.jpg"/>](https://ish.com.br/)
+**Mid-Level Fullstack Development** \
+[ISH](https://ish.com.br/) • Jan 2026 - Present • Contract \
+
+<br/>
+
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Findes" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
 **Fullstack Web Development** \
-[Findes](https://www.findes.com.br/) • Aug 2023 - Present • Contract \
+[Findes](https://www.findes.com.br/) • Aug 2023 - Jan 2026 • Contract \
 Started as an **Intern**, then transitioned to a **Research Scholarship position**, and currently working as a **Junior Developer**. \
 Languages & Technologies: `TypeScript`, `React - Vite`, `Figma`, `GitHub`, `Azure`, `Python`, `Node` 
 
