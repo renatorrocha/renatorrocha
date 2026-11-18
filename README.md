@@ -1,5 +1,6 @@
 ### Hello Network 👋
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer Renato Rocha">
 
 <p align="left"> 
@@ -16,7 +17,6 @@
 <p align="left">
 <a href="https://github.com/renatorrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="renatorrocha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renato-rrodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato-rrodrigues" height="30" width="40" /></a>
-<a href="https://twitter.com/rrocha_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rrocha_dev" height="30" width="40" /></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ class About extends Developer {
     super({
       name: 'Renato Rocha Rodrigues',
       area: 'Fullstack and AI enthusiast',
-      work: 'ISH',
+      work: 'ISH/Vision Cybersecurity',
       state: 'Espírito Santo, ES'
     });
   }
@@ -66,11 +66,11 @@ class About extends Developer {
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ISH Logo" src="https://github.com/renatorrocha/renatorrocha/blob/main/ish-logo.jpg"/>](https://ish.com.br/)
-**Mid-Level Fullstack Development** \
-[ISH](https://ish.com.br/) • Jan 2026 - Present • Contract \
-I’ll add a description here soon
-
+[<img align="left" height="94px" width="94px" alt="ISH/Vision Cybersecurity" src="https://github.com/user-attachments/assets/654b3bc5-01ea-4d48-b576-9c55b91705ab"/>](https://visioncybersecurity.com/)
+**Fullstack Developer IV** \
+[ISH/Vision Cybersecurity](https://visioncybersecurity.com/) • Jan 2026 - Present • Hybrid \
+I mainly work on the internal portal, while also maintaining and evolving other company systems: features from planning to staging, legacy maintenance and migration, ticket support, and AI prototypes applied to the products. \
+Languages & Technologies: `Next.js`, `Nest.js`, `PostgreSQL`, `Docker`
 <br/>
 
 <br/>
@@ -78,7 +78,7 @@ I’ll add a description here soon
 [<img align="left" height="94px" width="94px" alt="Findes" src="https://github.com/renatorrocha/renatorrocha/blob/main/findes_logo.jpg"/>](https://www.findes.com.br/)
 **Fullstack Web Development** \
 [Findes](https://www.findes.com.br/) • Aug 2023 - Jan 2026 • Contract \
-Started as an **Intern**, then transitioned to a **Research Scholarship position**, and currently working as a **Junior Developer**. \
+Started as an **Intern**, then transitioned to a **Research Scholarship position**, and later worked as a **Junior Developer**. \
 Languages & Technologies: `TypeScript`, `React - Vite`, `Figma`, `GitHub`, `Azure`, `Python`, `Node` 
 
 <br/>
